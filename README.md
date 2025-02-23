@@ -1,6 +1,6 @@
 # YouTube Video Downloader
 
-This is a Python-based YouTube video downloader that automatically installs `yt-dlp` and `ffmpeg` if they are not already present. It allows users to select the best available video and audio quality in MP4 format.
+This is a Python-based YouTube video downloader that automatically installs `yt-dlp` and `ffmpeg` if they are not already present. It allows users to select the best available RAW/Uncompressed video and audio quality in MP4 format without a limitation.  
 
 ## Features
 
